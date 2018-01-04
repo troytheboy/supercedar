@@ -1,0 +1,23 @@
+{
+  "name": "supercedar",
+  "version": "1.0.0",
+  "description": "website for supercedar band",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troytheboy/supercedar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/troytheboy/supercedar/issues"
+  },
+  "homepage": "https://github.com/troytheboy/supercedar#readme",
+  "devDependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.14.7"
+  }
+}
