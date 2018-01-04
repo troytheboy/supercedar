@@ -1,0 +1,15 @@
+body div.jumbotron {
+  background: #5cab7d;
+  border-radius: 0; }
+  body div.jumbotron h1.title {
+    font-family: 'Libre Barcode 39 Text', cursive;
+    font-size: 65px;
+    color: #ffffff; }
+body div.container {
+  color: #3f4b3b;
+  font-family: 'Shrikhand', cursive;
+  text-align: center; }
+  body div.container img {
+    width: 300px; }
+
+/*# sourceMappingURL=main.css.map */

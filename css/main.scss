@@ -1,0 +1,23 @@
+$light-green: #5cab7d;
+$white: #ffffff;
+$dark-green: #3f4b3b;
+
+body {
+  div.jumbotron {
+    background: $light-green;
+    border-radius: 0;
+    h1.title {
+      font-family: 'Libre Barcode 39 Text', cursive;
+      font-size: 65px;
+      color: $white;
+    }
+  }
+  div.container {
+    color: $dark-green;
+    font-family: 'Shrikhand', cursive;
+    text-align: center;
+    img {
+      width: 300px;
+    }
+  }
+}
